@@ -25,7 +25,6 @@
   <p align="center">
     A sentiment analysis project that has been implemented using Python, nltk and integrated with a CI/CD pipeline.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
   </p>
 </div>
 
