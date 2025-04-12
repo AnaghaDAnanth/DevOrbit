@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center">DevOps Project G01</h2>
+  <h2 align="center">DevOrbit</h2>
 
   <p align="center">
     A sentiment analysis project that has been implemented using Python, nltk and integrated with a CI/CD pipeline.
@@ -57,8 +57,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-This is a basic sentiment analysis project built for predicting the sentiment of restaurant reviews. It uses an SVM model that is built using Python's scikit-learn and nltk libraries. The model has been saved and stored in the Models folder inroot directory. A CI/CD pipeline has been built to integrate multiple DevOps project to create an end-to-end flow of the working, deployed application.
+This is a hands-on DevOps learning project covering the full toolchain—from local Flask app development to deployment on Cloud Foundry. This project explores and integrates key DevOps tools and concepts including CI/CD, infrastructure as code, cloud deployment, and automation pipelines. Built to provide end-to-end exposure to real-world DevOps workflows. It enatils a basic sentiment analysis project built for predicting the sentiment of restaurant reviews. It uses an SVM model that is built using Python's scikit-learn and nltk libraries. The model has been saved and stored in the Models folder inroot directory. A CI/CD pipeline has been built to integrate multiple DevOps project to create an end-to-end flow of the working, deployed application.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
